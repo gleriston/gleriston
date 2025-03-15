@@ -1,9 +1,9 @@
 # 💫 About Me:
-<h1>Hi, I'm Gleriston <br/><br><br><br><h2>
+Hi, I'm Gleriston
 
 🎓 Certifications:
 
-[![ITILV4](https://www.peoplecert.org/-/media/peoplecert/images/candidate/logos-shadow/itil_icon.svg?h=300&w=612&logo=Itil&hash=E1B191393D73CA5CB3335F6220968C9C)itilv]
+[![ITILV4(https://www.peoplecert.org/-/media/peoplecert/images/candidate/logos-shadow/itil_icon.svg?h=300&w=612&logo=Itil&hash=E1B191393D73CA5CB3335F6220968C9C)itilv]
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gleristonsampaio ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gleristonsampaio@gmail.com) 
