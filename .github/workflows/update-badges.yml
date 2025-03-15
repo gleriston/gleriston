@@ -11,6 +11,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Badges - Readme
-        uses: gleriston/badge-readme@2.3.0
+        uses: pemtajo/badge-readme@2.3.0
         with:      
           CREDLY_USER: <credly username> # optional, but default will use the same from github
