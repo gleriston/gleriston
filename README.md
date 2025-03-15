@@ -3,7 +3,7 @@
 
 🎓 Certifications:
 
-[![ITIL® Foundation V4](https://www.peoplecert.org/-/media/folders-reorganized/images/logos-2024/peoplecert/product-logos/itil/pc_itil_rgb_outl_svg.svg?h=32&w=111&hash=8EC2B948597F840DA31246BFA75C04C0)]
+[![ITIL® Foundation V4](https://www.peoplecert.org/-/media/folders-reorganized/images/logos-2024/peoplecert/product-logos/itil/pc_itil_rgb_outl_svg.svg?hash=8EC2B948597F840DA31246BFA75C04C0)]
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gleristonsampaio ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gleristonsampaio@gmail.com) 
