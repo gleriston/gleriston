@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hi, I'm Gleriston
 
-🎓 Certifications:
+# 🎓 Certifications:
 [![ITIL] https://www.peoplecert.org/-/media/peoplecert/images/candidate/logos-shadow/itil_icon.svg?h=300&w=612&hash=E1B191393D73CA5CB3335F6220968C9C] (ITIL)
 
 # 🌐 Socials:
