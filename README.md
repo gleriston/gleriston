@@ -1,5 +1,5 @@
 # 💫 About Me:
-<h1>Hi, I'm Gleriston <br/><br><br><br><h2>🎓 Certificações</h2><br>- ITIL® Foundation Certificate in IT Service Management (ITIL V4)<br><br><br><h2> 🤳 Connect with me:</h2><br>[linkedin]: [https://www.linkedin.com/in/gleristonsampaio/]<br><br><!--<br>
+<h1>Hi, I'm Gleriston <br/><br><br><br><h2>🎓 Certificações</h2><br>- ITIL® Foundation Certificate in IT Service Management (ITIL V4)<br><br><br><h2>
 
 
 ## 🌐 Socials:
