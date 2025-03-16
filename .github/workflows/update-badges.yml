@@ -11,6 +11,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Badges - Readme
-        uses: pemtajo/badge-readme@2.3.0
+        uses: gleriston/badge-readme@2.3.0
         with:
           CREDLY_SORT: POPULAR
