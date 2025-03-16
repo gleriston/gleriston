@@ -11,8 +11,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Badges - Readme
-- uses: gleriston/credly-import-action@v1
-  with:
-    name: gleriston
-    skip_image_downloading: 1
-    # Only the ./CredlyBadges.json file will be created
+        uses: pemtajo/badge-readme@2.3.0
+        with:
+          CREDLY_SORT: POPULAR
