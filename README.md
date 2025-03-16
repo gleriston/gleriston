@@ -11,10 +11,7 @@ HDI - Team Leader
 
 ## 🎓 Credky
 
-{{comment "<!--START_SECTION:badges-->"}}
-{{comment "<!--END_SECTION:badges-->"}}
-
-Find all [my badges on Credly.com](https://www.credly.com/users/jetzlstorfer/badges).
+Find all [my badges on Credly.com](https://www.credly.com/users/gleriston/badges).
 
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gleristonsampaio ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gleristonsampaio@gmail.com) 
