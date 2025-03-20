@@ -1,0 +1,6 @@
+- uses: 
+gleriston/credly-import-action@v1
+  with:
+    name: gleriston
+    skip_image_downloading: 1
+    # Only the ./CredlyBadges.json file will be created
