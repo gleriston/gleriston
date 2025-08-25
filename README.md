@@ -49,7 +49,7 @@ Sou um profissional com uma paixão por tecnologia e um histórico sólido em **
 ### 🏆 Troféus
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gleriston&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="Troféus do GitHub" />
+  ![](https://github-profile-trophy.vercel.app/?username=gleriston&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 </p>
 
 ---
