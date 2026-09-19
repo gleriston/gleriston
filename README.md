@@ -1,72 +1,52 @@
-# Olá, sou o Gleriston 👋
+# Gleriston Sampaio
+### Desenvolvedor Web & Analista de TI | Front-end, Back-end & Automação
 
-### Desenvolvedor e Analista de Sistemas com foco em soluções eficientes e automação.
-
-Sou um profissional com uma paixão por tecnologia e um histórico sólido em **desenvolvimento de software**, **automação** e **gestão de TI**. Minha experiência abrange desde o desenvolvimento de scripts para otimização de processos até a liderança de equipes e a implementação de práticas de ITIL.
-
----
-
-### 🌐 Conecte-se comigo:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gleristonsampaio) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gleristonsampaio@gmail.com)
+📍 Fortaleza/CE  
+📱 [(85) 98801-0012](https://wa.me/5585988010012)  
+✉️ [gleristonsampaio@gmail.com](mailto:gleristonsampaio@gmail.com)  
+🌐 [gleriston.github.io](https://gleriston.github.io/)
 
 ---
 
-### 🚀 Minhas Habilidades
+## 🚀 Sobre Mim
+Profissional de Tecnologia com experiência em Liderança Técnica e Suporte de TI. Apaixonado pelo universo **GNU/Linux**, **Open Source**, **Raspberry Pi** e **Automação de Sistemas**. 
 
-#### Linguagens & Ferramentas
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![Perl](https://img.shields.io/badge/perl-%2339457E.svg?style=for-the-badge&logo=perl&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-
-#### Infraestrutura & DevOps
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) ![Zigbee](https://img.shields.io/badge/zigbee-%23EB0443.svg?style=for-the-badge&logo=zigbee&logoColor=white)
-
-#### Banco de Dados & CMS
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Joomla](https://img.shields.io/badge/joomla-%235091CD.svg?style=for-the-badge&logo=joomla&logoColor=white)
-
-#### Design & Multimídia
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13)
+Atualmente, focado no desenvolvimento de software utilizando **Python** e **Flutter**, além de criar rotinas de automação via scripts (Bash, PowerShell) e pipelines CI/CD.
 
 ---
 
-### 🎓 Certificações
+## 🛠️ Tecnologias & Ferramentas
 
-* **ITIL Foundation V4** ![ITIL](https://www.peoplecert.org/-/media/peoplecert/images/candidate/logos-shadow/itil_icon.svg?h=20&w=20&hash=E1B191393D73CA5CB3335F6220968C9C)
-* **HDI - Team Leader**
-* **Credly Badges:** [Confira todas as minhas certificações no Credly.com](https://www.credly.com/users/gleriston/badges)
+**Linguagens & Frameworks:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 
----
-
-### 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gleriston&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=gleriston&theme=dark&hide_border=false" alt="Streak Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gleriston&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-</p>
-
----
-
-### 🏆 Troféus
-
-  ![](https://github-profile-trophy.vercel.app/?username=gleriston&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
+**Automação, Dados & DevOps:**  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 ---
 
-### ✍️ Citação Aleatória
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Citação Aleatória" />
-</p>
+## 🎓 Formação Acadêmica
+* **Universidade da Grande Fortaleza (UNIGRANDE)**  
+  *Análise e Desenvolvimento de Sistemas*
 
 ---
 
-### 🔝 Principais Repositórios
+## 📜 Certificações
 
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=gleriston&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Principais Repositórios" />
-</p>
+* **ITIL® 4 Foundation** — *PeopleCert*
+* **HDI Team Leader** — *HDI*
 
----
-
-[![](https://visitcount.itsvg.in/api?id=gleriston&icon=0&color=0)](https://visitcount.itsvg.in)
+<a href="https://candidate.peoplecert.org/MobileReports.aspx?id=C50C19EEFA7581643FD515F0EE0CC933D00A03FFEC63DB369AAC0708A8128CE75DE91D732CF7117EA251721CAE074C1A4AF1D13779A78F999EABFF9D029938FF6DC93A0DE48BFB1803F08AA03C5C2F2861757CA38477A569CD1B91BDF26F1AE67B172474AF409FB8CAE721E4D95A56C730488343C2FC2FCC5476AB2843F47C16" target="_blank">
+  <img src="https://badges.peoplecert.org/Badges/Template/en/1140/63804148-665A-4881-AAC6-EAEC58799A85" alt="ITIL 4 Foundation - PeopleCert Badge" width="120">
+</a>
